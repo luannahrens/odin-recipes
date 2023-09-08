@@ -1,0 +1,17 @@
+/* Style sheet - Excersice from Foundations CSS */
+h1 {
+    color:rgb(228, 86, 61);
+    font-family: 'Kite One', serif;
+    font-size: 37px;
+    
+}
+
+body {
+    font-family: Poppins, sans-serif;
+    font-size: 16px;  
+}
+a {
+    color:teal;
+}
+  
+ 
